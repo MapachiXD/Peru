@@ -4,7 +4,7 @@ body {
   padding: 0;
   line-height: 1.6;
   color: white;
-  background-color: #E265F7;
+  background-color: #0509F5;
 }
 header h1 {
     font-size: 2.5rem;
@@ -19,26 +19,26 @@ nav{
     display: flex;
 }
 li{
-    background-color: #F7656F;
+    background-color: #5BB8EB;
     margin-right: 25px;
     padding: 10px;
-    border: 5px solid #F4A3A9;
+    border: 5px solid #B75BEB;
     font-weight: 800;
     font-size: 20px;
 }
 header {
-    background-color: #F765C7;
+    background-color: #5B8BEB;
     color: white;
     text-align: center;
     padding: 2rem 1rem;
 }
 section {
-    background-color: #F77C65;
+    background-color: #885BEB;
     border-radius: 8px;
     margin-bottom: 2rem;
     padding: 2rem;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 section h2 {
     color: white;
